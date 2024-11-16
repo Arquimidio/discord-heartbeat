@@ -19,6 +19,6 @@ Flow:
 
 1. MI Band monitors the BPM
 2. MI Band Tools exposes the data
-3. Automate listens to the data updates from MI Band tools
+3. Automate gets data updates from MI Band tools
 4. Automate makes a post request to your desired address (can be your pc or a server)
 5. The server you are running with this code receives the BPM data and sends a POST request to Discord API to update the BPM

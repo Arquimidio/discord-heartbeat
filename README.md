@@ -4,7 +4,7 @@ Extract your hearbeat data from your Xiaomi Mi Band and display it on discord wi
 
 What you will need:
 
-1. Xiaomi Mi Band
+1. Xiaomi Mi Band (you can do this with other wearables, just find a way to post an HTTP request to your server)
 2. A cellphone with the following apps:
   - Zepp Life
   - Mi Band Tools
